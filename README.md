@@ -1,5 +1,6 @@
 # Predicting-Lung-Cancer-the-Smart-Way
 🧠 Project Description
+
 Project that describes end-to-end predictive model development to identify lung cancer using Machine Learning (ML), Deep Learning (DL), and Ensemble Models. Relying on a 1,000 patients' database of demographic, environmental, lifestyle, and clinical factors, it is the task to identify the risk levels for lung cancer accurately as Low, Medium, and High.
 
 The process steps are feature scaling, data preprocessing, label encoding, and multi-class classification. Some of the models were developed and tested:
